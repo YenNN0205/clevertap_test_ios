@@ -2,6 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>aps-environment </key>
+	<string>development</string>
+	<key>CleverTapAccountID</key>
+	<string>TEST-Z8R-KK4-876Z</string>
+	<key>CleverTapDisableIDFV</key>
+	<true/>
+	<key>CleverTapRegion</key>
+	<string>sg1</string>
+	<key>CleverTapToken</key>
+	<string>TEST-433-2b1</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
