@@ -31,9 +31,9 @@ class ViewController: UIViewController {
         
         let profile: Dictionary<String, Any> = [
             //Update pre-defined profile properties
-            "identity": 9084,
-            "Name": "YenNN",
-            "Email": "yennn1322@31cinnovation.com",
+            "identity": 1998,
+            "Name": "LiemLD",
+            "Email": "21102000bela.sy@gmail.com",
             "Phone": "+84355322422",
             "DOB": "$D_-1164921064",
             "Gender": "M",
